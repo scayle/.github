@@ -9,9 +9,9 @@
   <a href="https://www.scayle.com/">Website</a>
 </h4>
 
-<p align="center">
-  <a href="https://scayle.com">SCAYLE<a/> is a full-featured e-commerce software solution that comes with flexible APIs. Within SCAYLE, you can manage all aspects of your shop, such as products, stocks, customers, and transactions. <br/> Learn more about <a href="https://scayle.dev/en/dev/getting-started/introduction">Scayles’s architecture<a/> and <a href="https://scayle.dev/en/dev/getting-started/introduction">commerce modules<a/> in the Docs.
-</p>
+[SCAYLE](https://scayle.com) is a full-featured e-commerce software solution that comes with flexible APIs. Within SCAYLE, you can manage all aspects of your shop, such as products, stocks, customers, and transactions.
+
+Learn more about [Scayles’s architecture](https://scayle.dev/en/dev/getting-started/introduction) and [commerce modules](https://scayle.dev/en/dev/getting-started/introduction) in the Docs.
 
 ## Other channels
 
