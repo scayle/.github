@@ -15,7 +15,5 @@ Learn more about [Scayles’s architecture](https://scayle.dev/en/dev/getting-st
 
 ## Other channels
 
-- [GitHub Issues](https://github.com/scayle/storefront-api-php-sdk/issues)
 - [LinkedIn](https://www.linkedin.com/company/scaylecommerce/)
 - [Jobs](https://careers.smartrecruiters.com/ABOUTYOUGmbH/scayle)
-- [AboutYou Tech Blog](https://aboutyou.tech/)
